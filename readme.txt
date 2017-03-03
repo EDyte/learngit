@@ -5,3 +5,4 @@ Git modified 1
 Git modified 2
 Git modified 3 and 4
 Git modified 5 and 6
+Git modified 7
